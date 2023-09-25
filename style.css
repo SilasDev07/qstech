@@ -129,7 +129,7 @@ main {
   display: flex;
   border-radius: 10px;
   flex-direction: column;
-  width: 600px;
+  width: 200px;
   align-items: center;
   justify-content: center;
   height: 400px;
@@ -262,6 +262,9 @@ footer {
 } 
 
 @media (max-width:610px){
+
+
+
 
   main{
     height: 564px;
