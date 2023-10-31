@@ -118,6 +118,14 @@ header {
 }
 
 
+.container-logo {
+    width: 230px;
+    align-items: right;
+    display: flex;
+    font-size: 10px;
+    justify-content: right;
+  } 
+
 main {
   height: 100vh;
   display: flex;
