@@ -515,7 +515,9 @@ main{
   .container-redes {
     display: none;
   }
-
+.container-logo{
+  width: auto;
+}
 
   .container-textocop {
     display: none;
